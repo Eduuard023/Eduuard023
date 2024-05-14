@@ -1,4 +1,6 @@
-### Hi there 👋
+### Olá 👋
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Eduuard023=anuraghazra&theme=radical&show_icons=true)
 
 <!--
 **Eduuard023/Eduuard023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
