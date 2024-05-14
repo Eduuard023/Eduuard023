@@ -1,4 +1,4 @@
-###👋 Bem-vindo(a) ao meu Github
+### 👋 Bem-vindo(a) ao meu Github
 
 Olá, sou o **Eduardo**! Desenvolvedor FullStack Jr em formação pela EBAC e atualmente estou cursando Análise e Desenvolvimento de Sistemas. Utilizo JavaScript, HTML, CSS, React, Python e outras ferramentas para criar e aprimorar aplicativos com foco em  aplicações web.
 
