@@ -4,7 +4,9 @@ Olá, sou o **Eduardo**! Desenvolvedor FullStack Jr em formação pela EBAC e at
 
 Meu objetivo é combinar minhas habilidades de desenvolvimento web com meus conhecimentos de ciência de dados para criar soluções inovadoras e eficientes para problemas reais.
 
-Fique à vontade para me contatar e olhar meus projetos! 😉 Email - eduuardofeelipee@gmail.com LinkedIn - https://www.linkedin.com/in/eduardofdasilva/
+Fique à vontade para me contatar e olhar meus projetos! 😉 
+**Email** - eduuardofeelipee@gmail.com 
+**LinkedIn** - https://www.linkedin.com/in/eduardofdasilva/
 
 ### Detalhes
 
