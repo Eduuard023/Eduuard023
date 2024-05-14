@@ -7,6 +7,7 @@ Meu objetivo é combinar minhas habilidades de desenvolvimento web com meus conh
 Fique à vontade para me contatar e olhar meus projetos! 😉
 
 **Email** - eduuardofeelipee@gmail.com 
+
 **LinkedIn** - https://www.linkedin.com/in/eduardofdasilva/
 
 ### Detalhes
