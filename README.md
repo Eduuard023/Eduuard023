@@ -2,7 +2,7 @@
 
 Olá, sou o **Eduardo**! Desenvolvedor FullStack Jr em formação pela EBAC e atualmente estou cursando Análise e Desenvolvimento de Sistemas. Utilizo JavaScript, HTML, CSS, React, Python e outras ferramentas para criar e aprimorar aplicativos com foco em  aplicações web.
 
-Meu objetivo é combinar minhas habilidades de desenvolvimento web com meus conhecimentos de ciência de dados para criar soluções inovadoras e eficientes para problemas reais.
+Meu objetivo é combinar minhas habilidades de desenvolvimento web com meus conhecimentos para criar soluções inovadoras e eficientes para problemas reais.
 
 Fique à vontade para me contatar e olhar meus projetos! 😉
 
